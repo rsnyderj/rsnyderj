@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsnyderj
-- 👀 I’m interested in Python, TensorFlow, ML/AI.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Python, TensorFlow, ML/AI, and web development.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on anything basic. 
 - 📫 How to reach me = email or github.
 
